@@ -1,0 +1,16 @@
+{
+  "name": "hack-2025-v3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"cd frontend && npm run dev\" \"cd backend && python3 flask_server_complete.py\"",
+    "install-all": "npm install && cd frontend && npm install",
+    "dev": "npm run start"
+  },
+  "dependencies": {
+    "firebase": "^12.4.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
