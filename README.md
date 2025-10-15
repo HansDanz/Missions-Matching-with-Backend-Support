@@ -1,0 +1,5 @@
+Steps to use (I think)
+1. source env/bin/activate (for Mac) env/Scripts/Activate.ps1 (for Windows)
+2. npm run install-all (unless the env has everything idk)
+3. pip install -r requirements.txt (unless the env has everything idk)
+4. npm run start (Runs frontend and backend simultaneously)
