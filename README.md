@@ -1,4 +1,4 @@
-# Internship-Application-Tracker
+# Missions-Matching-Web-App
 A full-stack web application for posting mission trip opportunities on a unified platform with CRUD functionality. Project done for Singapore Centre for Global Missions @ #HACK 2025
 
 ---
