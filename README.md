@@ -45,6 +45,8 @@ Missionary:
 
 ## Demo
 
+Click the image below to view the Video Demo on YouTube:
+
 [![Watch the video](https://img.youtube.com/vi/6rZU3S7d7V4/0.jpg)](https://www.youtube.com/watch?v=6rZU3S7d7V4)
 
 ---
